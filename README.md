@@ -1,10 +1,10 @@
 # myaws-rk
 
-##Overview
+## Overview
 
 Myaws-rk is an equipment rental website. User can signin and see available equipements.
 
-##Technologies used
+## Technologies used
 
 * JavaScript
 * jQuery
