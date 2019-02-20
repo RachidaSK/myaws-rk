@@ -2,7 +2,7 @@
 
 ## Overview
 
-Myaws-rk is an equipment rental website. User can signin and see available equipements.
+Myaws-rk is a cloud-based application that uses AWS. User can sign In and see available construction equipements for rent.
 
 ## Technologies used
 
