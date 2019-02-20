@@ -1,0 +1,24 @@
+{
+  "name": "myaws-rk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.7",
+    "aws-sdk": "^2.405.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachidaSK/myaws-rk.git"
+  },
+  "author": "Rachida Kone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachidaSK/myaws-rk/issues"
+  },
+  "homepage": "https://github.com/RachidaSK/myaws-rk#readme"
+}

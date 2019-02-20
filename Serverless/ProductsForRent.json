@@ -1,0 +1,148 @@
+{
+    "ProductsForRent": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "1"
+                    },
+                    "Name": {
+                        "S": "Wheel Loader"
+                    },
+                    "Location": {
+                        "S": "Kennesaw"
+                    },
+                    "Price/day": {
+                        "N": "25.99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "2"
+                    },
+                    "Name": {
+                        "S": "Steel Track Excavator"
+                    },
+                    "Location": {
+                        "S": "Marietta"
+                    },
+                    "Price/day": {
+                        "N": "55.98"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "3"
+                    },
+                    "Name": {
+                        "S": "Ride-On Roller"
+                    },
+                    "Location": {
+                        "S": "Roswell"
+                    },
+                    "Price/day": {
+                        "N": "35.01"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "4"
+                    },
+                    "Name": {
+                        "S": "Articulated Boom Lifts"
+                    },
+                    "Location": {
+                        "S": "Alpharetta"
+                    },
+                    "Price/day": {
+                        "N": "29.97"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "5"
+                    },
+                    "Name": {
+                        "S": "Ride-On Sweeper"
+                    },
+                    "Location": {
+                        "S": "Kennesaw"
+                    },
+                    "Price/day": {
+                        "N": "22.99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "6"
+                    },
+                    "Name": {
+                        "S": "Diesel Light Tower"
+                    },
+                    "Location": {
+                        "S": "Kennesaw"
+                    },
+                    "Price/day": {
+                        "N": "49.99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "7"
+                    },
+                    "Name": {
+                        "S": "Diesel Generator"
+                    },
+                    "Location": {
+                        "S": "Roswell"
+                    },
+                    "Price/day": {
+                        "N": "43.99"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Id": {
+                        "N": "8"
+                    },
+                    "Name": {
+                        "S": "Tamper Jumping Jack"
+                    },
+                    "Location": {
+                        "S": "Kennesaw"
+                    },
+                    "Price/day": {
+                        "N": "19.97"
+                    }
+                }
+            }
+        }
+    ]
+}

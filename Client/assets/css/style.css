@@ -1,0 +1,72 @@
+.navigation {
+    background-color: #3d3d3d;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffff;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #ffff;
+}
+
+.main-page {
+    background-image: url("../images/equipment.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    margin: 10px;
+}
+
+.sign-in {
+    height: 400px;
+}
+
+.sign-up {
+    height: 475px;
+}
+
+.sign-in-form {
+    width: 400px;
+    border: 1px solid black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    background-color:#fdfdfd;
+}
+
+.sign-in-header {
+    display: "block";
+    width: auto;
+    height: 80px;
+    background-color: #3d3d3d;
+    background-image: url("../images/earth.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px 50px;
+}
+
+.sign-in-body {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+}
+
+.form-control {
+    margin: 10px;
+    padding-left: 10px;
+    height: 32px;
+    width: 100%;
+}
+
+.action-btn {
+    margin: 10px;
+    padding: 5px;
+    width: 100%;
+    background-color: #2ac9d4;
+}
