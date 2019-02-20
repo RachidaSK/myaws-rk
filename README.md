@@ -2,7 +2,7 @@
 
 ## Overview
 
-Myaws-rk is a cloud-based application that uses AWS. User can sign In and see available construction equipements for rent.
+Myaws-rk is a cloud-based application that uses AWS. User can sign In and see available construction equipement for rent.
 
 ## Technologies used
 
