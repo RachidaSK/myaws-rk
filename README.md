@@ -11,5 +11,6 @@ Myaws-rk is a cloud-based application that uses AWS. User can sign In and see av
 * AWS S3
 * AWS Cognito
 * AWS API Gateway
+* AWS Lambda
 * Amazon DynamoDB
 * BootStrap
